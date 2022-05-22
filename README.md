@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4tinKhosravi
 - 👀 I’m interested in healthcare and web apps.
-- 🌱 I’m currently learning git & laravel!
+- 🌱 I’m currently learning bootstrap & laravel!
 - 💞️ I’m looking to collaborate on any healthcare-related or webapp project!
 - 📫 How to reach me: me@matink.ir
 
